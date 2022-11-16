@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ford Ranger 2019 (BLUE)
+* source:	https://sketchfab.com/3d-models/ford-ranger-2019-blue-3f7e1abb70cd476e8dd6de506c2ef417
+* author:	TSB3DMODELS (https://sketchfab.com/TSB3DMODELS)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ford Ranger 2019 (BLUE)" (https://sketchfab.com/3d-models/ford-ranger-2019-blue-3f7e1abb70cd476e8dd6de506c2ef417) by TSB3DMODELS (https://sketchfab.com/TSB3DMODELS) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
